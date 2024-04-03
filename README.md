@@ -15,9 +15,13 @@ In the simplest circuit, cars just have to turn left and go straight ahead :
 
 ![image](https://github.com/Arthurus-Projet/ai_car_racing/assets/133526137/ee3692d7-00de-4182-bf5b-e6dfc065782b)
 
+100 cars are created per generation, as soon as a car touches the circuit it dies, the fitness score is defined by the time a car remains alive.
+
 Here's a more challenging circuit :
 
 ![image](https://github.com/Arthurus-Projet/ai_car_racing/assets/133526137/f2a38939-7140-43b1-9002-aef48ce43b9c)
+
+generation 34 a car that survives indefinitely :
 
 ![image](https://github.com/Arthurus-Projet/ai_car_racing/assets/133526137/400ba9ca-ccf3-44a4-9e5a-a178dff837e2)
 
