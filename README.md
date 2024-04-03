@@ -21,7 +21,7 @@ Here's a more challenging circuit :
 
 ![image](https://github.com/Arthurus-Projet/ai_car_racing/assets/133526137/f2a38939-7140-43b1-9002-aef48ce43b9c)
 
-generation 34 a car that survives indefinitely :
+At generation 34 the neural network is optimized :
 
 ![image](https://github.com/Arthurus-Projet/ai_car_racing/assets/133526137/400ba9ca-ccf3-44a4-9e5a-a178dff837e2)
 
