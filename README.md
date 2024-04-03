@@ -11,6 +11,9 @@ Then I use a genetic algorithm to optimize the weights of the neural network
 
 ![image](https://github.com/Arthurus-Projet/ai_car_racing/assets/133526137/f2a38939-7140-43b1-9002-aef48ce43b9c)
 
+In the simplest case, cars just have to turn left and go straight ahead :
+![image](https://github.com/Arthurus-Projet/ai_car_racing/assets/133526137/ee3692d7-00de-4182-bf5b-e6dfc065782b)
+
 
 ![image](https://github.com/Arthurus-Projet/ai_car_racing/assets/133526137/400ba9ca-ccf3-44a4-9e5a-a178dff837e2)
 
