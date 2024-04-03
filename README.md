@@ -11,7 +11,7 @@ Then we give these 3 inputs to a neural network, and at the output there are 2 b
 
 Then I use a genetic algorithm to optimize the weights of the neural network
 
-In the simplest circuit, cars just have to turn left and go straight ahead :
+In the simplest circuit, cars just have to turn left and go straight ahead : (Only 4 hidden neurons are needed for this circuit)
 
 ![image](https://github.com/Arthurus-Projet/ai_car_racing/assets/133526137/ee3692d7-00de-4182-bf5b-e6dfc065782b)
 
